@@ -1,5 +1,5 @@
 {
-    "name": "asus/training",
+    "name": "denyf27/training",
     "autoload": {
         "psr-4": {
             "Asus\\Training\\": "src/"
