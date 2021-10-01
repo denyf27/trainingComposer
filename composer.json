@@ -1,0 +1,9 @@
+{
+    "name": "asus/training",
+    "autoload": {
+        "psr-4": {
+            "Asus\\Training\\": "src/"
+        }
+    },
+    "require": {}
+}
